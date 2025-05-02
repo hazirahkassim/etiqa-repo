@@ -1,0 +1,21 @@
+.profile-image{
+    width:20px ;
+    height: 20px;
+    position:relative;
+    border-radius: 25px;
+    border: 2px solid white;
+}
+.profile-info > div {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid darkgray;
+}
+.profile-details > div{
+    display: flex;
+    justify-content: space-around;
+}
+.profile-name{
+    display: flex;
+    flex-direction: row;
+    
+}
